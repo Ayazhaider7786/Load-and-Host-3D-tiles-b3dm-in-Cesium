@@ -1,0 +1,13 @@
+load and Hostel 2d/ 3d tiles.
+
+Hosting
+
+1) Install a local hosting software like XAMPP.
+2) It provies APACHE which can be used to host tiles data.
+3) Install Xampp and run APACHE.
+3) it can also host cesium library.
+4) To host tiles 2D/3D put them anywhere in the htdoc Folder inside XAMPP.
+
+Loading 
+1) Give the Path to host tiles as in app.html.
+2) run the application via http://localhost:port/folder
